@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" modified="2024-01-05T00:17:36.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="7Yjxc4Z-PjIrlFmbM5p4" version="22.1.16" type="github">
+  <diagram name="Page-1" id="0mfOncsozbHG4jfgCFd6">
+    <mxGraphModel dx="1432" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x9slMFjHhgCo1RBjHVp2-1" target="x9slMFjHhgCo1RBjHVp2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-1" value="Issue Created" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x9slMFjHhgCo1RBjHVp2-2" target="x9slMFjHhgCo1RBjHVp2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x9slMFjHhgCo1RBjHVp2-2" target="x9slMFjHhgCo1RBjHVp2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-2" value="Mobile Apps" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="30" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-3" value="Apps&lt;br&gt;Team" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="30" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9slMFjHhgCo1RBjHVp2-6" target="x9slMFjHhgCo1RBjHVp2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x9slMFjHhgCo1RBjHVp2-6" target="x9slMFjHhgCo1RBjHVp2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-6" value="Marquee&lt;br&gt;Quoting&lt;br&gt;Vacation&lt;br&gt;Caspio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-8" value="Internal Apps" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x9slMFjHhgCo1RBjHVp2-10" target="x9slMFjHhgCo1RBjHVp2-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x9slMFjHhgCo1RBjHVp2-10" target="x9slMFjHhgCo1RBjHVp2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-10" value="Zabbix&lt;br&gt;Monitoring&lt;br&gt;AWS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-12" value="SO Team" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x9slMFjHhgCo1RBjHVp2-14" target="x9slMFjHhgCo1RBjHVp2-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x9slMFjHhgCo1RBjHVp2-14" target="x9slMFjHhgCo1RBjHVp2-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-14" value="Choice ILP" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="390" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-16" value="Terry" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="390" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-19" value="&lt;h1&gt;Snap team&lt;/h1&gt;&lt;p&gt;Includes some custom projects, and anything not detailed below.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="30" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x9slMFjHhgCo1RBjHVp2-20" target="x9slMFjHhgCo1RBjHVp2-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x9slMFjHhgCo1RBjHVp2-20" target="x9slMFjHhgCo1RBjHVp2-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-20" value="MDU/OSC" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="510" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-22" value="Simon" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="510" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-24" value="&lt;h1&gt;Internal apps team&lt;/h1&gt;&lt;p&gt;Includes caspio custom products (Paul, Liam)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="150" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-25" value="&lt;h1&gt;SO team&lt;/h1&gt;&lt;p&gt;Includes aws, zabbix (Lee, David)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="270" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x9slMFjHhgCo1RBjHVp2-30" target="x9slMFjHhgCo1RBjHVp2-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-30" value="Anything else" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="630" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x9slMFjHhgCo1RBjHVp2-32" value="Snap Team" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="630" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
